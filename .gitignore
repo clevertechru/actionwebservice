@@ -1,0 +1,5 @@
+.idea
+debug.log
+actionwebservice_unittest.db
+*.gem
+.rvmrc
